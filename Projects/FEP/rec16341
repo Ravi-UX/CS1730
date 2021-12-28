@@ -1,0 +1,20 @@
+FEP:
+total 200
+-rwxr-xr-x. 1 myid 14024 May 11 14:55 FP_A
+-rw-r--r--. 1 myid  2037 May 11 13:35 FP_A.c
+-rwxr-xr-x. 1 myid 30256 May 11 14:55 FP_B
+-rw-r--r--. 1 myid  1537 May 11 14:34 FP_B.cpp
+-rwxr-xr-x. 1 myid 34336 May 11 14:55 FP_Euler2
+-rw-r--r--. 1 myid  1208 May 11 13:50 FP_Euler2.cpp
+-rwxr-xr-x. 1 myid 34296 May 11 14:55 FP_Euler5
+-rw-r--r--. 1 myid   972 May 11 13:53 FP_Euler5.cpp
+-rwxr-xr-x. 1 myid 34384 May 11 14:55 FP_Euler6
+-rw-r--r--. 1 myid   937 May 11 14:15 FP_Euler6.cpp
+-rw-r--r--. 1 myid   477 May 11 13:07 Makefile
+-rw-r--r--. 1 myid    14 May 11 14:31 nums1.txt
+-rw-r--r--. 1 myid    26 May 11 14:43 nums2.txt
+-rw-r--r--. 1 myid    13 May 11 14:35 nums3.txt
+-rw-r--r--. 1 myid    31 May 11 14:42 nums4.txt
+-rw-r--r--. 1 myid  1569 May 11 14:27 README.txt
+-rw-r--r--. 1 myid     0 May 11 15:10 rec16341
+/home/myid/rtc00422/cs1730/Projects/FEP:/home/myid/csci-1730

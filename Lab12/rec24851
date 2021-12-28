@@ -1,0 +1,15 @@
+Lab12:
+total 244
+-rwxr-xr-x. 1 myid 31888 Apr 25 22:47 doTime
+-rw-r--r--. 1 myid  2274 Apr 23 13:53 doTime.cpp
+-rw-r--r--. 1 myid 38056 Apr 25 22:47 doTime.o
+-rwxr-xr-x. 1 myid 33360 Apr 25 22:47 lab12
+-rw-r--r--. 1 myid  2976 Apr 25 22:47 lab12.cpp
+-rw-r--r--. 1 myid 42392 Apr 25 22:47 lab12.o
+-rw-r--r--. 1 myid   755 Apr 23 14:19 Makefile
+-rwxr-xr-x. 1 myid 31264 Apr 25 22:47 pred
+-rw-r--r--. 1 myid  1134 Apr 23 13:53 pred.cpp
+-rw-r--r--. 1 myid 37680 Apr 25 22:47 pred.o
+-rw-r--r--. 1 myid   579 Apr 23 15:47 rec15060
+-rw-r--r--. 1 myid     0 Apr 25 23:01 rec24851
+/home/myid/rtc00422/cs1730/Lab12:/home/myid/csci-1730

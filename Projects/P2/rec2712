@@ -1,0 +1,9 @@
+P2:
+total 24
+-rw-r--r--. 1 myid 2045 Mar 15 23:50 chunk.c
+-rw-r--r--. 1 myid 4957 Mar 15 23:34 chunkFunctions.c
+-rw-r--r--. 1 myid  273 Mar 15 23:38 chunkFunctions.h
+-rw-r--r--. 1 myid  181 Mar 15 23:41 Makefile
+-rw-r--r--. 1 myid  705 Mar 15 23:59 README.txt
+-rw-r--r--. 1 myid    0 Mar 15 23:59 rec2712
+/home/myid/rtc00422/cs1730/Projects/P2:/home/myid/csci-1730

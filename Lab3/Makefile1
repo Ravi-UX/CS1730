@@ -1,0 +1,46 @@
+CFLAGS  = -g -Wall
+CC	= gcc
+
+all: runProgram longProgram
+
+
+
+#
+# checks time stamps of all pre-requisites and check if it needs
+# recompilation
+#
+# Modfy the prereqs which are currently .c files to .o files. 
+# Move the .h prereq to the prerque of the  target statistics.o
+#
+# Note to complile .c files to a .o file you need the 
+#      -c flag
+# 
+# # https://www.gnu.org/software/make/manual/html_node/Simple-Makefile.html
+# 
+#
+#
+runProgram: runProgram.o getInput.o statistics.o statistics.h
+	$(CC) $(CFLAGS) statistics.c getInput.c runProgram.c -o runProgram
+
+
+# add .o file targets here, one for each .c file
+#
+runProgram.o: runProgram.c
+	$(CC) $(CFLAGS) -c runProgram.c
+statistics.o: statistics.c statistics.h
+	$(CC) $(CFLAGS) -c statistics.c
+getInput.o: getInput.c
+	$(CC) $(CFLAGS) -c getInput.c
+
+
+
+longProgram: longProgram.c 
+	$(CC) $(CFLAGS) $@.c -o $@
+
+clean:
+	rm -f runProgram
+	rm -f longProgram
+	rm -f *.o
+	rm -rf runProgram.dSYM
+	rm -rf longProgram.dSYM
+

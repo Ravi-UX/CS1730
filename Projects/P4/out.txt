@@ -1,0 +1,35 @@
+h
+k
+asdf
+asdklfj
+sdkfj
+history > out.txt
+[?2004hyosh:/home/myid/rtc00422/cs1730/Projects/P4% [?2004ld/rtc00422/cs1730/Projects/P4% 
+[?2004l[?2004hyosh:/home/myid/rtc00422/cs1730/Projects/P4% 
+[?2004l[?2004hyosh:/home/myid/rtc00422/cs1730/Projects/P4% 
+[?2004l[?2004hyosh:/home/myid/rtc00422/cs1730/Projects/P4% [?2004l 18 21:16 histexamp
+-rw-r--r--. 1 rtc00422 myid    2869 Apr 15 22:26 histexamp.c
+-rw-r--r--. 1 rtc00422 myid   10128 Apr 18 21:16 histexamp.o
+-rw-r--r--. 1 rtc00422 myid     807 Apr 15 22:26 index.html
+-rw-r--r--. 1 rtc00422 myid    2497 Apr 18 18:54 list.c
+-rw-r--r--. 1 rtc00422 myid     469 Apr 18 18:54 list.h
+-rw-r--r--. 1 rtc00422 myid     568 Apr 18 18:54 list_test.c
+-rw-r--r--. 1 rtc00422 myid     824 Apr 16 15:06 Makefile
+-rw-r--r--. 1 rtc00422 myid     627 Apr 15 22:26 Makefile.odin
+-rwxr-xr-x. 1 rtc00422 myid     286 Apr 18 21:11 out.txt
+-rw-r--r--. 1 rtc00422 myid    7528 Apr 15 22:26 parse.c
+-rw-r--r--. 1 rtc00422 myid     779 Apr 16 13:33 parse.h
+-rw-r--r--. 1 rtc00422 myid   14768 Apr 18 21:16 parse.o
+-rw-r--r--. 1 rtc00422 myid    2377 Apr 16 00:16 pipe.c
+-rw-r--r--. 1 rtc00422 myid    1266 Apr 15 22:26 README-parser.txt
+-rw-r--r--. 1 rtc00422 myid     628 Apr 15 22:26 README-readline-odin.txt
+-rwxr-xr-x. 1 rtc00422 myid 1021400 Apr 18 21:16 rlbasic
+-rw-r--r--. 1 rtc00422 myid     399 Apr 15 22:26 rlbasic.c
+-rw-r--r--. 1 rtc00422 myid    3696 Apr 18 21:16 rlbasic.o
+-rwxr-xr-x. 1 rtc00422 myid 1030784 Apr 18 21:16 shell
+-rw-r--r--. 1 rtc00422 myid    2466 Apr 15 22:26 shell.c
+-rw-r--r--. 1 rtc00422 myid    8248 Apr 18 21:16 shell.o
+-rwxr-xr-x. 1 rtc00422 myid 1036840 Apr 18 21:16 yosh
+-rw-r--r--. 1 rtc00422 myid    6488 Apr 18 21:13 #yosh.c#
+-rw-r--r--. 1 rtc00422 myid    6482 Apr 18 21:15 yosh.c
+-rw-r--r--. 1 rtc00422 myid   14344 Apr 18 21:16 yosh.o

@@ -1,0 +1,25 @@
+Lab3:
+total 2748
+-rw-r--r--. 1 myid    1593 Feb  6 21:35 getInput.c
+-rw-r--r--. 1 myid      13 Feb  3 14:07 input03.txt
+-rw-r--r--. 1 myid      13 Feb  3 14:07 input04.txt
+-rw-r--r--. 1 myid     283 Feb  3 14:07 input100.txt
+-rw-r--r--. 1 myid      33 Feb  3 14:07 input10.txt
+-rw-r--r--. 1 myid      64 Feb  3 14:07 input21.txt
+-rw-r--r--. 1 myid  571928 Feb  6 21:43 LabMe.jpg
+-rw-r--r--. 1 myid  407460 Feb  6 21:43 LabProgress.PNG
+-rwxr-xr-x. 1 myid    9448 Feb  6 21:37 longProgram
+-rw-r--r--. 1 myid     343 Feb  3 14:07 longProgram.c
+-rw-r--r--. 1 myid     435 Feb  3 18:11 Makefile
+-rw-r--r--. 1 myid     435 Feb  3 14:07 Makefile0
+-rw-r--r--. 1 myid     965 Feb  6 18:50 Makefile1
+-rw-r--r--. 1 myid     703 Feb  6 19:01 Makefile2
+-rw-r--r--. 1 myid     130 Feb  3 14:07 README.txt
+-rw-r--r--. 1 myid       0 Feb  6 21:45 rec13629
+-rw-r--r--. 1 myid    1056 Feb  3 18:57 rec4886
+-rwxr-xr-x. 1 myid   17528 Feb  6 21:37 runProgram
+-rw-r--r--. 1 myid      52 Feb  3 14:07 runProgram.c
+-rw-r--r--. 1 myid    1106 Feb  6 21:37 statistics.c
+-rw-r--r--. 1 myid     355 Feb  6 20:06 statistics.h
+-rw-r--r--. 1 myid 1728948 Feb  6 18:39 statistics.h.gch
+/home/myid/rtc00422/cs1730/Lab3:/home/myid/csci-1730

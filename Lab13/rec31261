@@ -1,0 +1,26 @@
+Lab13:
+total 2808
+-rw-r--r--. 1 myid    192 Apr 30 16:27 data0.txt
+-rw-r--r--. 1 myid   1306 Apr 30 16:27 data1.txt
+-rw-r--r--. 1 myid    100 Apr 30 16:27 data2.txt
+-rwxr-xr-x. 1 myid 129760 Apr 30 17:14 get_input
+-rw-r--r--. 1 myid   1468 Apr 30 16:35 get_input.cpp
+-rw-r--r--. 1 myid 203528 Apr 30 17:14 get_input.o
+-rwxr-xr-x. 1 myid 253128 Apr 30 17:14 Lab13
+-rw-r--r--. 1 myid   1451 Apr 30 17:14 Lab13.cpp
+-rw-r--r--. 1 myid 426232 Apr 30 17:14 Lab13.o
+-rw-r--r--. 1 myid  95354 Apr 30 16:27 Lab13.pdf
+-rw-r--r--. 1 myid    347 Apr 30 16:34 Makefile
+-rwxr-xr-x. 1 myid 210400 Apr 30 17:14 map_bikes
+-rw-r--r--. 1 myid    710 Apr 30 16:27 map_bikes.cpp
+-rw-r--r--. 1 myid 348648 Apr 30 17:14 map_bikes.o
+-rwxr-xr-x. 1 myid 248672 Apr 30 17:14 map_nested
+-rw-r--r--. 1 myid    263 Apr 30 16:27 map_nested.cpp
+-rw-r--r--. 1 myid 402432 Apr 30 17:14 map_nested.o
+-rw-r--r--. 1 myid  67019 Apr 30 16:27 mapping_viz.pdf
+-rwxr-xr-x. 1 myid 166456 Apr 30 17:14 multimap_words
+-rw-r--r--. 1 myid   1000 Apr 30 16:27 multimap_words.cpp
+-rw-r--r--. 1 myid 257976 Apr 30 17:14 multimap_words.o
+-rw-r--r--. 1 myid    548 Apr 30 16:27 README.txt
+-rw-r--r--. 1 myid      0 Apr 30 17:15 rec31261
+/home/myid/rtc00422/cs1730/Lab13:/home/myid/csci-1730

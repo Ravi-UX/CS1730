@@ -1,0 +1,12 @@
+P3:
+total 52
+-rw-r--r--. 1 myid   161 Mar 28 21:47 Makefile
+-rw-r--r--. 1 myid   657 Mar 29 23:48 README.txt
+-rw-r--r--. 1 myid   462 Mar 29 00:56 rec1198
+-rw-r--r--. 1 myid     0 Mar 29 23:49 rec27695
+-rw-r--r--. 1 myid   416 Mar 28 23:54 rec28332
+-rwxr-xr-x. 1 myid 18472 Mar 29 23:43 sfind
+-rw-r--r--. 1 myid  2268 Mar 29 23:35 sfind.c
+-rw-r--r--. 1 myid  6474 Mar 29 23:43 sfindFunctions.c
+-rw-r--r--. 1 myid   260 Mar 29 21:16 sfindFunctions.h
+/home/myid/rtc00422/cs1730/Projects/P3:/home/myid/csci-1730

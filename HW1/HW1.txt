@@ -1,0 +1,5 @@
+a) I have never programmed in C before.
+b) Github is a code repository that is used for software projects.
+c) I have used Github for cs1302.
+d) I have a Github account.
+e) A compiler is a program that translates source code to bit code/assembly.

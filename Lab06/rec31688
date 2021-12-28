@@ -1,0 +1,16 @@
+Lab06:
+total 1488
+-rwxr-xr-x. 1 myid  10048 Mar  5 13:59 filecopy
+-rw-r--r--. 1 myid   4217 Mar  5 14:14 filecopy.c
+-rw-r--r--. 1 myid   5304 Mar  5 13:59 filecopy.o
+-rw-r--r--. 1 myid 610796 Mar  5 18:08 LabMe1st.jpg
+-rw-r--r--. 1 myid 496262 Mar  5 18:08 LabProgress1st.PNG
+-rw-r--r--. 1 myid    633 Mar  5 13:57 Makefile
+-rw-r--r--. 1 myid      0 Mar  5 18:10 rec31688
+-rw-r--r--. 1 myid  25579 Mar  5 13:57 z_answer.jok.txt
+-rw-r--r--. 1 myid 329672 Mar  5 13:57 z_babbage-gutenberg330KB.txt
+-rw-r--r--. 1 myid     75 Mar  5 13:58 z_goggamal-input.txt
+-rw-r--r--. 1 myid    141 Mar  5 13:58 z_goggamal-output-ALL.txt
+-rw-r--r--. 1 myid    141 Mar  5 13:58 z_goggamal-output-byhand.txt
+-rw-r--r--. 1 myid     89 Mar  5 13:58 z_goggamal-RST-only.txt
+/home/myid/rtc00422/cs1730/Lab06:/home/myid/csci-1730

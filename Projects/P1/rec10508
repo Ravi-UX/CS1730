@@ -1,0 +1,10 @@
+P1:
+total 44
+-rw-r--r--. 1 myid  5824 Feb 24 23:19 craps.c
+-rw-r--r--. 1 myid   157 Feb 23 20:18 Makefile
+-rw-r--r--. 1 myid   749 Feb 24 23:51 README.txt
+-rw-r--r--. 1 myid     0 Feb 24 23:52 rec10508
+-rwxr-xr-x. 1 myid 15632 Feb 24 23:51 runProgram
+-rw-r--r--. 1 myid  4856 Feb 24 23:43 wagers.c
+-rw-r--r--. 1 myid   321 Feb 24 21:03 wagers.h
+/home/myid/rtc00422/cs1730/Projects/P1:/home/myid/csci-1730

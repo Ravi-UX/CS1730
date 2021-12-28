@@ -1,0 +1,26 @@
+CFLAGS = -g -Wall -Wno-unused-variable
+
+CC = gcc
+
+all: myls mynewls
+
+mynewls: permissionbits.o mynewls.o
+	$(CC) $(CFLAGS) $@.c -o $@ 
+
+myls: permissionbits.o myls.o
+	$(CC) $(CFLAGS) $@.c -o $@ 
+
+# generic
+%.o : %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
+clean:
+	rm -f mynewls
+	rm -f myls
+	rm -f core *.o a.out 
+	rm -f DIRECTORY.html
+	rm -rf *.dSYM
+
+webclean:
+	rm -f DIRECTORY.html
+

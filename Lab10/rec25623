@@ -1,0 +1,20 @@
+Lab10:
+total 228
+-rw-r--r--. 1 myid 112857 Apr  9 14:02 00_fork_signal.png
+-rwxr-xr-x. 1 myid  10072 Apr  9 15:32 02a_fork12_wait
+-rw-r--r--. 1 myid   1302 Apr  9 14:02 02a_fork12_wait.c
+-rwxr-xr-x. 1 myid  11032 Apr  9 15:32 03a_signal_example
+-rw-r--r--. 1 myid    859 Apr  9 14:02 03a_signal_example.c
+-rwxr-xr-x. 1 myid  10912 Apr  9 15:32 03b_parent_child
+-rw-r--r--. 1 myid    925 Apr  9 14:02 03b_parent_child.c
+-rwxr-xr-x. 1 myid  11064 Apr  9 15:32 03b_signal_example
+-rw-r--r--. 1 myid   1068 Apr  9 14:02 03b_signal_example.c
+-rwxr-xr-x. 1 myid  11160 Apr  9 15:32 04_signal_example
+-rw-r--r--. 1 myid    543 Apr  9 14:02 04_signal_example.c
+-rwxr-xr-x. 1 myid   9656 Apr  9 15:32 05_sigkill_simple
+-rw-r--r--. 1 myid    422 Apr  9 14:02 05_sigkill_simple.c
+-rwxr-xr-x. 1 myid   9984 Apr  9 15:32 lab10
+-rw-r--r--. 1 myid    961 Apr  9 15:32 lab10.c
+-rw-r--r--. 1 myid    446 Apr  9 14:34 Makefile
+-rw-r--r--. 1 myid      0 Apr  9 15:43 rec25623
+/home/myid/rtc00422/cs1730/Lab10:/home/myid/csci-1730

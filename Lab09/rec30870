@@ -1,0 +1,19 @@
+Lab09:
+total 1660
+-rw-r--r--. 1 myid    551 Apr  2 13:59 forking.c
+-rw-r--r--. 1 myid     75 Apr  2 13:59 goggamal-input.txt
+-rw-r--r--. 1 myid   1876 Apr  2 13:59 goggamal-solution.c
+-rw-r--r--. 1 myid 332357 Apr  2 16:29 LabMe1st.jpg
+-rw-r--r--. 1 myid 497103 Apr  4 22:20 LabMeFinal.jpg
+-rw-r--r--. 1 myid 399161 Apr  2 16:29 LabProgress1st.PNG
+-rw-r--r--. 1 myid 415902 Apr  4 22:20 LabProgressFinal.PNG
+-rw-r--r--. 1 myid    343 Apr  2 13:59 longProgram.c
+-rw-r--r--. 1 myid    831 Apr  4 22:05 Makefile
+-rw-r--r--. 1 myid    638 Apr  2 16:45 rec2390
+-rw-r--r--. 1 myid      0 Apr  4 22:22 rec30870
+-rw-r--r--. 1 myid   1593 Apr  2 13:59 talk-to.c
+-rw-r--r--. 1 myid   1585 Apr  2 14:33 task1.c
+-rw-r--r--. 1 myid   2354 Apr  4 21:53 task2.c
+-rw-r--r--. 1 myid   1402 Apr  4 22:05 task3i.c
+-rw-r--r--. 1 myid   2053 Apr  4 21:57 task3o.c
+/home/myid/rtc00422/cs1730/Lab09:/home/myid/csci-1730

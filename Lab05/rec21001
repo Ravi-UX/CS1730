@@ -1,0 +1,20 @@
+Lab05:
+total 1764
+-rw-r--r--. 1 myid      0 Mar  1 23:51 1.txt
+-rw-r--r--. 1 myid     41 Feb 26 14:02 2.txt
+-rw-r--r--. 1 myid     75 Feb 26 14:02 3-mystery-file.bin
+-rw-r--r--. 1 myid     75 Feb 26 14:02 3-part-file.bin
+-rw-r--r--. 1 myid 571307 Feb 26 15:35 LabMe1st.jpg
+-rw-r--r--. 1 myid 422759 Mar  2 00:00 LabMeFinal.jpg
+-rw-r--r--. 1 myid 438043 Feb 26 15:35 LabProgress1st.PNG
+-rw-r--r--. 1 myid 303962 Mar  2 00:00 LabProgressFinal.PNG
+-rw-r--r--. 1 myid    757 Mar  1 23:46 Makefile
+-rw-r--r--. 1 myid   2665 Feb 26 14:02 mywc.c
+-rwxr-xr-x. 1 myid  10240 Mar  1 23:54 mywc_commandline
+-rw-r--r--. 1 myid   2735 Mar  1 23:54 mywc_commandline.c
+-rwxr-xr-x. 1 myid   9976 Mar  1 23:48 part
+-rw-r--r--. 1 myid     75 Mar  1 22:15 part.bin
+-rw-r--r--. 1 myid   1317 Mar  1 22:13 part.c
+-rw-r--r--. 1 myid      0 Mar  2 00:01 rec21001
+-rw-r--r--. 1 myid    709 Feb 26 15:35 rec25758
+/home/myid/rtc00422/cs1730/Lab05:/home/myid/csci-1730

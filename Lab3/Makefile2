@@ -1,0 +1,32 @@
+CFLAGS  = -g -Wall
+CC	= gcc
+
+all: runProgram longProgram
+
+# define OBJECTS here by listing all .o file needed in prereq. of runProgram
+OBJECTS = runProgram.o statistics.o getInput.o
+
+
+# checks time stamps on all pre-requisites and check if it needs
+# recompilation
+# use the variable OBJECT here instead of the .c files.
+# see link from webpage on how that work.
+runProgram: $(OBJECTS) statistics.h
+	$(CC) $(CFLAGS) statistics.c getInput.c runProgram.c -o runProgram
+
+
+# below add the .o to .c rule
+#
+%.o : %.c
+	$(CC) -c $(CFLAGS) $< -o $@
+
+longProgram: longProgram.c 
+	$(CC) $(CFLAGS) $@.c -o $@
+
+clean:
+	rm -f runProgram
+	rm -f longProgram
+	rm -f *.o
+	rm -rf runProgram.dSYM
+	rm -rf longProgram.dSYM
+

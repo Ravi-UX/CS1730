@@ -1,0 +1,22 @@
+Lab3:
+total 2728
+-rw-r--r--. 1 myid    1132 Feb  3 14:07 getInput.c
+-rw-r--r--. 1 myid      13 Feb  3 14:07 input03.txt
+-rw-r--r--. 1 myid      13 Feb  3 14:07 input04.txt
+-rw-r--r--. 1 myid     283 Feb  3 14:07 input100.txt
+-rw-r--r--. 1 myid      33 Feb  3 14:07 input10.txt
+-rw-r--r--. 1 myid      64 Feb  3 14:07 input21.txt
+-rw-r--r--. 1 myid  549441 Feb  3 18:56 LabMe.jpg
+-rw-r--r--. 1 myid  445950 Feb  3 18:56 LabProgress.PNG
+-rw-r--r--. 1 myid     343 Feb  3 14:07 longProgram.c
+-rw-r--r--. 1 myid     435 Feb  3 18:11 Makefile
+-rw-r--r--. 1 myid     435 Feb  3 14:07 Makefile0
+-rw-r--r--. 1 myid     939 Feb  3 18:50 Makefile1
+-rw-r--r--. 1 myid     644 Feb  3 14:07 Makefile2
+-rw-r--r--. 1 myid     130 Feb  3 14:07 README.txt
+-rw-r--r--. 1 myid       0 Feb  3 18:57 rec4886
+-rw-r--r--. 1 myid      52 Feb  3 14:07 runProgram.c
+-rw-r--r--. 1 myid     219 Feb  3 14:07 statistics.c
+-rw-r--r--. 1 myid     184 Feb  3 14:07 statistics.h
+-rw-r--r--. 1 myid 1728948 Feb  3 18:50 statistics.h.gch
+/home/myid/rtc00422/cs1730/Lab3:/home/myid/csci-1730

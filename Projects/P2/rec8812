@@ -1,0 +1,12 @@
+P2:
+total 56
+-rwxr-xr-x. 1 myid 19352 Mar 16 23:45 chunk
+-rw-r--r--. 1 myid  2738 Mar 16 23:41 chunk.c
+-rw-r--r--. 1 myid  9610 Mar 16 23:38 chunkFunctions.c
+-rw-r--r--. 1 myid   329 Mar 16 19:32 chunkFunctions.h
+-rw-r--r--. 1 myid   160 Mar 16 23:45 Makefile
+-rw-r--r--. 1 myid   690 Mar 16 23:44 README.txt
+-rw-r--r--. 1 myid   365 Mar 15 23:59 rec2712
+-rw-r--r--. 1 myid     0 Mar 16 23:46 rec8812
+-rw-r--r--. 1 myid    30 Mar 16 21:04 text.txt
+/home/myid/rtc00422/cs1730/Projects/P2:/home/myid/csci-1730
