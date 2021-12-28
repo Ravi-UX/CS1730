@@ -1,4 +1,0 @@
-Make me a sandwich.
-What? Make it yourself.
-Sudo make me a sandwich.
-Okay.
